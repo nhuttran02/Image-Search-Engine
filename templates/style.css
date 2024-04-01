@@ -1,0 +1,65 @@
+/* Cài đặt chung */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Tiêu đề */
+
+/* h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 0;
+} */
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+/* Đoạn văn */
+
+p {
+    margin-bottom: 1em;
+    text-size-adjust: 20px;
+}
+
+/* Hình ảnh */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Liên kết */
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Danh sách */
+
+ul,
+ol {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 1em;
+}
+
+/* Chân trang */
+
+footer {
+    margin-top: 1em;
+    text-align: center;
+}
